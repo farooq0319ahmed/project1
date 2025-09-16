@@ -1,3 +1,4 @@
+# Drag and drop files here
 import streamlit as st
 import pandas as pd
 import os
@@ -92,3 +93,4 @@ if uploaded_files:
             )
             
 st.success(" All files processed successfully!")
+
